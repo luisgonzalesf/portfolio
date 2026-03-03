@@ -6,6 +6,9 @@
 
 ![Preview](./images/agricola_preview.png)
 
+<img width="1537" height="844" alt="image" src="https://github.com/user-attachments/assets/f7de5073-368e-4348-8f81-bf461d97ba12" />
+
+
 🔗 [Ver Dashboard](https://app.powerbi.com/link1)  
 🎥 [Ver Demo](https://youtube.com/video1)
 
