@@ -37,10 +37,11 @@ Está diseñado para servir como herramienta ejecutiva de monitoreo y control de
 
 ## 📊 2. Dashboard Costos Operativos
 
-![Preview](./images/costos_preview.png)
+![Preview](https://github.com/user-attachments/assets/1e117f91-d819-42bb-b7be-27019eb7eb5f)
 
 🔗 [Ver Dashboard](https://app.powerbi.com/link2)  
 🎥 [Ver Demo](https://youtube.com/video2)
+<video controls src="https://github.com/user-attachments/assets/e690f8d8-c1a6-4529-959c-609fd6ecdc62" title="Title"></video>
 
 ---
 
