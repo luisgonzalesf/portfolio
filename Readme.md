@@ -51,7 +51,7 @@ El dashboard está organizado en cinco niveles principales:
   2. Cuadros Comparativos Multianuales
   3. Análisis de Crecimiento
 
-🎥 [Ver Demo](https://youtube.com/video2)
+🎥 [Ver Demo](https://github.com/user-attachments/assets/e690f8d8-c1a6-4529-959c-609fd6ecdc62)
 <video controls src="https://github.com/user-attachments/assets/e690f8d8-c1a6-4529-959c-609fd6ecdc62">Análisis comparativo histórico</video>
 
 ---
