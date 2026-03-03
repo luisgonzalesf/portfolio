@@ -4,7 +4,7 @@
 
 ## 📊 1. Dashboard Productividad Agrícola
 
-![Preview](./images/agricola_preview.png)
+![Preview](https://github.com/user-attachments/assets/f7de5073-368e-4348-8f81-bf461d97ba12)
 
 <img width="1537" height="844" alt="image" src="https://github.com/user-attachments/assets/f7de5073-368e-4348-8f81-bf461d97ba12" />
 
