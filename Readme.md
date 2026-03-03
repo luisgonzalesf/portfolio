@@ -64,7 +64,9 @@ Está diseñado como herramienta ejecutiva para gerentes comerciales, jefes de v
 
 ## 📊 3. Dashboard Comercial
 
-![Preview](./images/comercial_preview.png)
+![Preview](https://github.com/user-attachments/assets/59ccab13-620a-4602-9865-305739cd29df)
+🎥 [Ver Demo](https://github.com/user-attachments/assets/c7f8d8e9-062e-409c-8e5f-9f6aa7c0822d)
 
-🔗 [Ver Dashboard](https://app.powerbi.com/link3)  
-🎥 [Ver Demo](https://youtube.com/video3)
+
+
+
