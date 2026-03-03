@@ -14,13 +14,22 @@ Este dashboard fue desarrollado con el propósito de monitorear y analizar el de
 
 El dashboard está organizado en cuatro niveles principales:
 
-1. Indicadores KPI superiores
+  1. Indicadores KPI superiores
+  2. Cuadros comparativos trimestrales
+  3. Análisis detallado por unidades
+  4. Filtros dinámicos de segmentación
 
-2. Cuadros comparativos trimestrales
+### ⚙️ Valor Agregado del Proyecto
 
-3. Análisis detallado por unidades
+Este dashboard no solo presenta visualización de datos, sino que integra:
 
-4. Filtros dinámicos de segmentación
+  - Consolidación de múltiples fuentes
+  - Modelado estructurado para análisis comparativo
+  - Indicadores automáticos de variación
+  - Segmentación dinámica
+  - Enfoque en análisis operativo y productivo
+
+Está diseñado para servir como herramienta ejecutiva de monitoreo y control de desempeño.
 
 🎥 [Ver Demo](https://github.com/user-attachments/assets/7f314fdd-a55f-4c70-965c-9f06d4b991ce)
 
