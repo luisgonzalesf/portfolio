@@ -32,19 +32,25 @@ Este dashboard no solo presenta visualización de datos, sino que integra:
 Está diseñado para servir como herramienta ejecutiva de monitoreo y control de desempeño.
 
 🎥 [Ver Demo](https://github.com/user-attachments/assets/7f314fdd-a55f-4c70-965c-9f06d4b991ce)
+<video controls src="https://github.com/user-attachments/assets/7f314fdd-a55f-4c70-965c-9f06d4b991ce" title="Análisis comparativo de eficiencia operativa"></video>
 
 ---
 
-
-https://github.com/user-attachments/assets/e690f8d8-c1a6-4529-959c-609fd6ecdc62
-
-
 ## 📊 2. Dashboard Costos Operativos
-<img width="1829" height="887" alt="image" src="https://github.com/user-attachments/assets/1e117f91-d819-42bb-b7be-27019eb7eb5f" />
 
 ![Preview](https://github.com/user-attachments/assets/1e117f91-d819-42bb-b7be-27019eb7eb5f)
 
-🔗 [Ver Dashboard](https://app.powerbi.com/link2)  
+### 🎯 Objetivo del Dashboard
+
+Este Tablero de Análisis Comparativo fue desarrollado para monitorear y analizar el desempeño comercial acumulado de ventas, permitiendo evaluar la evolución histórica, identificar tendencias de crecimiento y analizar el comportamiento de coberturas (PDV) y ticket promedio. La solución integra datos de múltiples años (2023-2026) y consolida métricas clave para la toma de decisiones estratégicas en tiempo real.
+
+### 🧭 Estructura General del Dashboard
+
+El dashboard está organizado en cinco niveles principales:
+  1. Indicadores KPI Superiores (Tarjetas de Resumen)
+  2. Cuadros Comparativos Multianuales
+  3. Análisis de Crecimiento
+
 🎥 [Ver Demo](https://youtube.com/video2)
 <video controls src="https://github.com/user-attachments/assets/e690f8d8-c1a6-4529-959c-609fd6ecdc62" title="Title"></video>
 
