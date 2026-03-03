@@ -67,6 +67,27 @@ Está diseñado como herramienta ejecutiva para gerentes comerciales, jefes de v
 ![Preview](https://github.com/user-attachments/assets/59ccab13-620a-4602-9865-305739cd29df)
 🎥 [Ver Demo](https://github.com/user-attachments/assets/c7f8d8e9-062e-409c-8e5f-9f6aa7c0822d)
 
+### 🎯 Objetivo del Dashboard
+Este dashboard fue desarrollado con el propósito de monitorear y analizar el desempeño comercial de dos líneas de negocio principales: productos Colgate (cuidado personal) y productos BAT (tabacalera). La solución permite evaluar ventas por categoría, desempeño de vendedores, cobertura de puntos de venta y comportamiento de marcas, consolidando métricas clave para la toma de decisiones operativas y estratégicas.
 
+⚙️ Funcionalidades Técnicas Implementadas
 
+| Funcionalidad                 | Descripción                                                      |
+| ----------------------------- | ---------------------------------------------------------------- |
+| **Bookmarks**                 | Toggle "Coberturas/Unidades" para cambiar métricas principales   |
+| **Drill-through**             | Navegación entre páginas de análisis (Colgate ↔ BAT)             |
+| **Scroll en tablas**          | Visualización de datos extensos sin saturar el layout            |
+| **Formato condicional**       | Heatmaps automáticos en calendario y tablas                      |
+| **Segmentación sincronizada** | Filtros que aplican a todos los visuales del reporte             |
+| **Tooltips personalizados**   | Información adicional al hover en elementos                      |
+| **DAX avanzado**              | Cálculos de variación porcentual, promedios móviles y acumulados |
 
+Este dashboard demuestra competencias en:
+  - Integración de múltiples fuentes: Datos de ventas, vendedores, productos y calendario comercial
+  - Modelado dimensional: Jerarquías de producto (Familia → Categoría → Marca) y geográficas (Sede → Canal → Ruta)
+  - Diseño responsive: Adaptación a diferentes niveles de agregación sin pérdida de información
+  - UX/UI profesional: Paleta de colores corporativa (rojo Colgate, verde BAT), iconografía intuitiva y navegación fluida
+  - Análisis comparativo: Variaciones mes a mes, año a año, y benchmarking contra promedios
+  - Automatización de insights: Indicadores de alerta (colores, flechas) para identificar desviaciones rápidamente
+
+Está diseñado como herramienta de gestión comercial para gerentes de ventas, supervisores de campo y analistas de operaciones que requieren monitoreo diario con capacidad de análisis tanto agregado como detallado por vendedor y producto.
