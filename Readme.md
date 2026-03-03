@@ -91,3 +91,5 @@ Este dashboard demuestra competencias en:
   - Automatización de insights: Indicadores de alerta (colores, flechas) para identificar desviaciones rápidamente
 
 Está diseñado como herramienta de gestión comercial para gerentes de ventas, supervisores de campo y analistas de operaciones que requieren monitoreo diario con capacidad de análisis tanto agregado como detallado por vendedor y producto.
+
+![Ver reporte](https://app.powerbi.com/view?r=eyJrIjoiNDNlZmNlNjItN2MwNS00Y2NmLThmOTYtNmE5M2M2ZTkyMzcwIiwidCI6IjJlZjEwYTQ1LTg4ZDMtNDNjNS1hNWVhLTYwNGJkZjgyMGJhMyIsImMiOjR9)
