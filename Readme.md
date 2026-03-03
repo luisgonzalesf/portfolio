@@ -35,7 +35,12 @@ Está diseñado para servir como herramienta ejecutiva de monitoreo y control de
 
 ---
 
+
+https://github.com/user-attachments/assets/e690f8d8-c1a6-4529-959c-609fd6ecdc62
+
+
 ## 📊 2. Dashboard Costos Operativos
+<img width="1829" height="887" alt="image" src="https://github.com/user-attachments/assets/1e117f91-d819-42bb-b7be-27019eb7eb5f" />
 
 ![Preview](https://github.com/user-attachments/assets/1e117f91-d819-42bb-b7be-27019eb7eb5f)
 
