@@ -5,6 +5,7 @@
 ## 📊 1. Dashboard: Análisis comparativo de eficiencia operativa
 
 ![Preview](https://github.com/user-attachments/assets/f7de5073-368e-4348-8f81-bf461d97ba12)
+🎥 [Ver Demo](https://github.com/user-attachments/assets/7f314fdd-a55f-4c70-965c-9f06d4b991ce)
 
 ### 🎯 Objetivo del Dashboard
 
@@ -31,14 +32,12 @@ Este dashboard no solo presenta visualización de datos, sino que integra:
 
 Está diseñado para servir como herramienta ejecutiva de monitoreo y control de desempeño.
 
-🎥 [Ver Demo](https://github.com/user-attachments/assets/7f314fdd-a55f-4c70-965c-9f06d4b991ce)
-<video controls src="https://github.com/user-attachments/assets/7f314fdd-a55f-4c70-965c-9f06d4b991ce">Análisis comparativo de eficiencia operativa</video>
-
 ---
 
 ## 📊 2. Dashboard: Análisis comparativo histórico
 
 ![Preview](https://github.com/user-attachments/assets/1e117f91-d819-42bb-b7be-27019eb7eb5f)
+🎥 [Ver Demo](https://github.com/user-attachments/assets/e690f8d8-c1a6-4529-959c-609fd6ecdc62)
 
 ### 🎯 Objetivo del Dashboard
 
@@ -51,8 +50,15 @@ El dashboard está organizado en cinco niveles principales:
   2. Cuadros Comparativos Multianuales
   3. Análisis de Crecimiento
 
-🎥 [Ver Demo](https://github.com/user-attachments/assets/e690f8d8-c1a6-4529-959c-609fd6ecdc62)
-<video controls src="https://github.com/user-attachments/assets/e690f8d8-c1a6-4529-959c-609fd6ecdc62">Análisis comparativo histórico</video>
+Este dashboard demuestra competencias en:
+  - Integración de múltiples fuentes de datos (ventas transaccionales, maestro de PDVs, catálogo de proveedores)
+  - Modelado dimensional para análisis comparativo multianual
+  - Diseño UX/UI con navegación intuitiva y alternancia visual/tabla
+  - Automatización de insights mediante indicadores de variación automáticos
+  - Segmentación dinámica por múltiples jerarquías de negocio
+  - Enfoque analítico que permite identificar oportunidades de mejora en cobertura y ticket promedio
+
+Está diseñado como herramienta ejecutiva para gerentes comerciales, jefes de ventas y analistas de operaciones que requieren monitoreo diario del desempeño con capacidad de drill-down hasta nivel de proveedor y ruta.
 
 ---
 
