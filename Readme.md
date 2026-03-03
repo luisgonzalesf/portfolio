@@ -32,7 +32,7 @@ Este dashboard no solo presenta visualización de datos, sino que integra:
 Está diseñado para servir como herramienta ejecutiva de monitoreo y control de desempeño.
 
 🎥 [Ver Demo](https://github.com/user-attachments/assets/7f314fdd-a55f-4c70-965c-9f06d4b991ce)
-<video controls src="https://github.com/user-attachments/assets/7f314fdd-a55f-4c70-965c-9f06d4b991ce" title="Análisis comparativo de eficiencia operativa">Análisis comparativo de eficiencia operativa</video>
+<video controls src="https://github.com/user-attachments/assets/7f314fdd-a55f-4c70-965c-9f06d4b991ce">Análisis comparativo de eficiencia operativa</video>
 
 ---
 
@@ -52,7 +52,7 @@ El dashboard está organizado en cinco niveles principales:
   3. Análisis de Crecimiento
 
 🎥 [Ver Demo](https://youtube.com/video2)
-<video controls src="https://github.com/user-attachments/assets/e690f8d8-c1a6-4529-959c-609fd6ecdc62" title="Análisis comparativo histórico">Análisis comparativo histórico</video>
+<video controls src="https://github.com/user-attachments/assets/e690f8d8-c1a6-4529-959c-609fd6ecdc62">Análisis comparativo histórico</video>
 
 ---
 
