@@ -6,11 +6,22 @@
 
 ![Preview](https://github.com/user-attachments/assets/f7de5073-368e-4348-8f81-bf461d97ba12)
 
-🎯 Objetivo del Dashboard
+### 🎯 Objetivo del Dashboard
 
 Este dashboard fue desarrollado con el propósito de monitorear y analizar el desempeño operativo y comercial por trimestre, permitiendo evaluar eficiencia, efectividad en ventas y comportamiento de tickets promedio. La solución integra datos transaccionales y consolida métricas clave para la toma de decisiones estratégicas.
 
-// -- 🔗 [Ver Dashboard](https://app.powerbi.com/link1)  
+### 🧭 Estructura General del Dashboard
+
+El dashboard está organizado en cuatro niveles principales:
+
+1. Indicadores KPI superiores
+
+2. Cuadros comparativos trimestrales
+
+3. Análisis detallado por unidades
+
+4. Filtros dinámicos de segmentación
+
 🎥 [Ver Demo](https://github.com/user-attachments/assets/7f314fdd-a55f-4c70-965c-9f06d4b991ce)
 
 ---
